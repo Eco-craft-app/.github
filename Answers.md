@@ -34,6 +34,13 @@ Eco-craft nie tylko edukuje, ale także wspiera proekologiczne nawyki, które ma
 - Konteneryzacja: Docker
 
 ## Opisz działanie Waszej aplikacji/narzędzia
+Aplikacja ma za zadanie ułatwić proces który w dzisiejszych czasach odgrywa coraz to większą rolę, a przede wszystkim w Unii Europejskiej, czyli segregacja odpadów, a co za tym idzie dbanie o środowisko.
+
+Użytkownik po zalogowaniu otrzymuje dostęp do pełnych możliwości jakie daje nasza aplikacja, między innymi:
+- Dostaje wgląd do różnej maści projektów stworzonych przez użytkowników w ramach upcyclingu, dzięki temu jest w stanie zaczęrpnąć inspiracji i spróbować swoich sił w stworzenie czegoś podobnego, bądź czegoś zupełnie nowego wykorzystując odpady które najpewniej wylądowałyby w koszu.
+Dodatkowo wprowadzony został system komentarzy oraz polubień tak więc każdy może dołączyć do dyskusji i docenić kreatywność twórców.
+
+- Kolejnym aspektem nad którym warto się skupić jest pomocnik AI, gdy zapytamy go co powinniśmy zrobić z danymi odpadami, ten wskaże pojemnik do którego należy wrzucić bądź zaproponuje co można z tego wykonać. Kluczową cechą tej opcji jest możliwość zawarcia zdjęć na podstawie których również może być podjęta decyzja o wyrzuceniu lub stworzeniu czegoś nowego.
 
 
 ## Jak widzicie dalszy rozwój Waszego rozwiązania?
