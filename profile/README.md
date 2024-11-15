@@ -55,11 +55,11 @@ Wykorzystujemy **Gemini API** do analizy zdjęć i sugestii upcyclingowych, poma
 
 Jesteśmy zespołem uczniów z **Zespołu Szkół Zawodowych w Gostyniu**, który łączy swoje talenty i pasje, aby tworzyć nowoczesne rozwiązania dla lepszej przyszłości:
 
-- 🌟 **Wojciech Błaszczyk** — Fullstack Developer, DevOps, Database Specialist
-- 🧠 **Jakub Michalski** — Python Developer, Prompt Engineer
-- 🎨 **Damian Ciszak** — Frontend Developer
-- 🖌️ **Dawid Kaźmierczak** — UI/UX Designer
-- 🛠️ **Mateusz Snela** — DevOps Engineer
+- 🌟 ![**Wojciech Błaszczyk**](https://github.com/Wojtaz2345982) — Fullstack Developer, DevOps, Database Specialist
+- 🧠 ![**Jakub Michalski**](https://github.com/jakub1m) — Python Developer, Prompt Engineer
+- 🎨 ![**Damian Ciszak**](https://github.com/Ciszpan3) — Frontend Developer
+- 🖌️ ![**Dawid Kaźmierczak**](https://github.com/K4ziWolf) — UI/UX Designer
+- 🛠️ ![**Mateusz Snela**](https://github.com/Over7oader) — DevOps Engineer
 
 Zespół **SpaceY** łączy wiedzę z różnych dziedzin, aby tworzyć rozwiązania, które mają realny wpływ na ochronę środowiska.
 
