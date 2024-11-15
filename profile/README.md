@@ -26,15 +26,15 @@ Organizacja **Eco-craft** składa się z kilku repozytoriów, które razem tworz
 
 ### 🌐 **Frontend**
 Repozytorium z aplikacją frontendową opartą na **Angularze**, tworzącą przyjazny interfejs użytkownika  
-🔗 [Frontend Repo](https://github.com/Eco-craft/frontend)
+🔗 [Frontend Repo](https://github.com/Eco-craft-app/frontend)
 
 ### ⚙️ **Backend**
 Nasze **serce aplikacji**, zbudowane na platformie **.NET**, zapewnia efektywną obsługę danych i komunikację z zewnętrznymi serwisami.  
-🔗 [Backend Repo](https://github.com/Eco-craft/backend)
+🔗 [Backend Repo](https://github.com/Eco-craft-app/backend)
 
 ### 🧠 **Integracja z AI - Python**
 Wykorzystujemy **Gemini API** do analizy zdjęć i sugestii upcyclingowych, pomagając użytkownikom lepiej zarządzać odpadami.  
-🔗 [AI Integration Repo](https://github.com/Eco-craft/ai-integration)
+🔗 [AI Integration Repo](https://github.com/Eco-craft-app/ai-integration)
 
 ---
 
