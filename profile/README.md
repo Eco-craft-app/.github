@@ -45,7 +45,7 @@ Wykorzystujemy **Gemini API** do analizy zdjęć i sugestii upcyclingowych, poma
 | **Angular**            | Frontend                  |
 | **.NET**               | Backend                   |
 | **Python & Gemini API**| AI i analityka            |
-| **Postgres SQL**              | Baza danych               |
+| **Postgre SQL**              | Baza danych               |
 | **Keycloak**           | Autoryzacja i bezpieczeństwo |
 | **Docker**             | Konteneryzacja            |
 
