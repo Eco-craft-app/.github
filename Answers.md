@@ -21,6 +21,9 @@ Zespół Szkół Zawodowych w Gostyniu
 https://github.com/Eco-craft-app
 
 ## Na jakie potrzeby/problem odpowiada Wasze rozwiązanie?
+Nasze rozwiązanie odpowiada na jeden z najważniejszych problemów współczesnego świata — zrównoważoną gospodarkę odpadami i ochronę środowiska. 
+W obliczu rosnącej produkcji odpadów i nadmiernej konsumpcji, 
+Eco-craft nie tylko edukuje, ale także wspiera proekologiczne nawyki, które mają realny wpływ na poprawę stanu środowiska. Dzięki naszej aplikacji użytkownicy mogą w prosty sposób przyczynić się do ochrony klimatu, co jest kluczowe dla przyszłości naszej planety.
 
 ## W jakich językach programowania, jakich technologiach powstała aplikacja/narzędzie
 - Frontend: Angular
@@ -34,28 +37,19 @@ https://github.com/Eco-craft-app
 
 
 ## Jak widzicie dalszy rozwój Waszego rozwiązania?
-W ramach dalszego rozwoju planujemy stworzenie własnych modeli sztucznej inteligencji do analizy odpadów i sugestii upcyclingowych. 
-Dzięki temu uniezależnimy się od zewnętrznych dostawców, takich jak Google, co umożliwi większą kontrolę nad procesem analizy i poprawi skalowalność projektu. 
-Tworzenie własnych modeli AI pozwoli nam również lepiej dopasować rozwiązanie do specyficznych potrzeb użytkowników oraz zapewnić większą elastyczność w dywersyfikacji naszych usług.
+W przyszłości planujemy rozwinąć Eco-craft, tworząc własne modele sztucznej inteligencji do analizy odpadów, co pozwoli nam uniezależnić się od zewnętrznych dostawców, takich jak Google.
+To da nam pełną kontrolę nad procesem analizy i umożliwi lepsze dostosowanie systemu do specyficznych potrzeb użytkowników, a także poprawi skalowalność projektu.
 
-Dodatkowo, chcielibyśmy rozbudować aplikację o funkcje grywalizacji. Planujemy wprowadzenie systemu punktów i leaderboarda, aby zwiększyć zaangażowanie użytkowników. Użytkownicy mogliby zdobywać punkty za różnorodne działania, takie jak:
-- Recykling odpadów
-- Codzienne logowanie się do aplikacji
-- Wstawianie własnych pomysłów na upcycling
-- Udzielanie się w społeczności i dzielenie inspiracjami
-  
-Dzięki temu, oprócz edukacji ekologicznej, chcemy stworzyć społeczność, która motywuje się nawzajem do aktywności na rzecz środowiska.
-System rankingowy będzie zachęcał do rywalizacji, co pozwoli na jeszcze większe zaangażowanie użytkowników i pozytywnie wpłynie na rozwój proekologicznych nawyków wśród społeczności.
+Zamierzamy również wzbogacić aplikację o funkcje grywalizacji, wprowadzając system punktów i leaderboarda. 
+Użytkownicy będą mogli zdobywać punkty za recykling, codzienne logowanie, dzielenie się pomysłami na upcycling i aktywność w społeczności. System rankingowy zmotywuje ich do większego zaangażowania, tworząc dynamiczną społeczność proekologiczną.
 
-W przyszłości planujemy rozszerzenie funkcjonalności o możliwość integracji z lokalnymi punktami recyklingu, aby użytkownicy mogli łatwo znaleźć miejsca do oddania swoich odpadów.
+Dodatkowo, planujemy integrację z lokalnymi punktami recyklingu, umożliwiając użytkownikom łatwe znalezienie miejsc do oddania odpadów, co jeszcze bardziej zbliży naszą aplikację do rzeczywistych działań na rzecz środowiska.
 
 ## Jakie widzicie zagrożenia/ryzyka dla Waszego rozwiązania?
-Zagrożenia mogą obejmować problemy związane z dokładnością analiz zdjęć przez AI, co może wpływać na efektywność aplikacji.
+Główne ryzyko związane z naszym rozwiązaniem to precyzyjność analizy zdjęć przez AI.
+Może to wpływać na skuteczność aplikacji, dlatego kluczowe będzie nieustanne doskonalenie algorytmów oraz testowanie różnych scenariuszy, aby zapewnić jak najwyższą dokładność.
 
 ## Dlaczego akurat Wy powinniście wygrać?
-Nasze rozwiązanie wyróżnia się innowacyjnym połączeniem technologii sztucznej inteligencji z ekologicznym podejściem do zarządzania odpadami, co sprawia, 
-że Eco-craft to nie tylko narzędzie edukacyjne, ale także praktyczne rozwiązanie wspierające zrównoważony rozwój.
-Aplikacja pomaga użytkownikom podejmować świadome decyzje proekologiczne, oferując funkcje takie jak analiza odpadów czy sugestie upcyclingowe. 
-Co więcej, Eco-craft aktywnie angażuje użytkowników, tworząc społeczność osób pasjonujących się ochroną środowiska, co wzmacnia poczucie współodpowiedzialności i motywuje do działania na rzecz planety. 
-Dzięki temu nasz projekt nie tylko zwiększa świadomość ekologiczną, ale także wspiera budowanie pozytywnych nawyków i współpracy w społeczności. 
-To kompleksowe podejście sprawia, że Eco-craft ma realny wpływ na przyszłość naszej planety, dlatego uważamy, że zasługujemy na wygraną.
+Wierzymy, że Eco-craft ma ogromny potencjał, by stać się katalizatorem zmian w postawach proekologicznych. 
+Nasza aplikacja pomaga użytkownikom podejmować lepsze decyzje, a także tworzy przestrzeń do współpracy, dzielenia się wiedzą i inspiracjami. 
+Dzięki temu, nasz projekt nie tylko edukuje, ale także realnie przyczynia się do poprawy stanu środowiska naturalnego, co czyni nas idealnymi kandydatami do zwycięstwa w tym konkursie.
