@@ -34,13 +34,26 @@ Eco-craft nie tylko edukuje, ale także wspiera proekologiczne nawyki, które ma
 - Konteneryzacja: Docker
 
 ## Opisz działanie Waszej aplikacji/narzędzia
-Aplikacja ma za zadanie ułatwić proces który w dzisiejszych czasach odgrywa coraz to większą rol czyli segregacja odpadów, a co za tym idzie dbanie o środowisko.
+Opis działania aplikacji
+Nasza aplikacja to innowacyjne narzędzie wspierające użytkowników w dbaniu o środowisko poprzez efektywną segregację odpadów i promowanie idei upcyclingu. Łączy funkcjonalność asystenta AI z możliwościami platformy społecznościowej, aby tworzyć kompleksowe rozwiązanie w obszarze zarządzania odpadami.
 
-Użytkownik po zalogowaniu otrzymuje dostęp do pełnych możliwości jakie daje nasza aplikacja, między innymi:
-- Dostaje wgląd do różnej maści projektów stworzonych przez użytkowników w ramach upcyclingu, dzięki temu jest w stanie zaczęrpnąć inspiracji i spróbować swoich sił w stworzenie czegoś podobnego, bądź czegoś zupełnie nowego wykorzystując odpady które najpewniej wylądowałyby w koszu.
-Dodatkowo wprowadzony został system komentarzy oraz polubień tak więc każdy może dołączyć do dyskusji i docenić kreatywność twórców.
+Kluczowe funkcjonalności:
+Rozpoznawanie odpadów na podstawie zdjęć
+Aplikacja wykorzystuje sztuczną inteligencję, która analizuje przesłane przez użytkownika zdjęcia odpadów. Na podstawie analizy AI:
 
-- Kolejnym aspektem nad którym warto się skupić jest pomocnik AI. Kluczową cechą tej opcji jest możliwość zawarcia zdjęć na podstawie których również może być podjęta decyzja o wyrzuceniu lub stworzeniu czegoś nowego.
+Kategoryzuje odpad i wskazuje, do jakiego pojemnika należy go wyrzucić zgodnie z zasadami segregacji.
+Proponuje kreatywne sposoby na ponowne wykorzystanie odpadów w ramach upcyclingu, co pozwala nadać im drugie życie.
+
+Platforma społecznościowa dla miłośników upcyclingu
+Użytkownicy mają możliwość:
+Dodawania własnych projektów upcyclingowych, aby dzielić się swoimi pomysłami z innymi.
+Oceniania i komentowania projektów dodanych przez społeczność, co umożliwia wymianę doświadczeń, wspólne rozwiązywanie problemów i inspirowanie się nawzajem.
+Budowania społeczności pasjonatów ekologii i kreatywności poprzez interakcje w systemie polubień oraz dyskusje.
+Inspiracje do działania
+Aplikacja udostępnia bogaty katalog projektów stworzonych przez innych użytkowników. Dzięki temu każdy może znaleźć pomysły na wykorzystanie odpadów, które w przeciwnym razie trafiłyby na wysypisko.
+
+Nasze rozwiązanie wspiera nie tylko świadome zarządzanie odpadami, ale również zachęca do twórczego podejścia do codziennych problemów ekologicznych, budując jednocześnie zaangażowaną społeczność.
+
 
 
 ## Jak widzicie dalszy rozwój Waszego rozwiązania?
