@@ -1,5 +1,9 @@
-![Eco-craft header](leaves_header.png)
-# 🌍🌿 Eco-craft — Razem dla Planety 🌿🌍
+<p align="center">
+  <img src="leaves_header.png" alt="Eco-craft header">
+</p>
+
+<h1 align="center">🌍🌿 Eco-craft — Razem dla Planety 🌿🌍</h1>
+
 > **"Natura daje nam wszystko, co potrzebujemy. Czas, abyśmy oddali coś w zamian."**
 
 **Eco-craft** to innowacyjna platforma opracowana przez zespół **SpaceY**, mająca na celu promowanie zrównoważonego stylu życia i ochronę naszej planety. Wierzymy, że małe działania mogą prowadzić do wielkich zmian, dlatego stworzyliśmy aplikację, która pomaga w odpowiedzialnym zarządzaniu odpadami oraz inspiruje do kreatywnego upcyclingu.
