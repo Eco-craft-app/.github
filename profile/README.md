@@ -20,25 +20,22 @@ Nasza misja to **łączenie technologii z ekologią** w celu wspierania społecz
 - 🌍 **Społeczność i współpraca** — łączymy ludzi, aby razem tworzyć bardziej zieloną przyszłość.
 
 ---
-
 ## 📚 Struktura Organizacji
 
 Organizacja **Eco-craft** składa się z kilku repozytoriów, które razem tworzą naszą aplikację:
 
 ### 🌐 **Frontend**
-Repozytorium z aplikacją frontendową opartą na **Angularze**, tworzącą przyjazny interfejs użytkownika
-
+Repozytorium z aplikacją frontendową opartą na **Angularze**, tworzącą przyjazny interfejs użytkownika  
 🔗 [Frontend Repo](https://github.com/Eco-craft/frontend)
 
 ### ⚙️ **Backend**
-Nasze **serce aplikacji**, zbudowane na platformie **.NET**, zapewnia efektywną obsługę danych i komunikację z zewnętrznymi serwisami.
-
+Nasze **serce aplikacji**, zbudowane na platformie **.NET**, zapewnia efektywną obsługę danych i komunikację z zewnętrznymi serwisami.  
 🔗 [Backend Repo](https://github.com/Eco-craft/backend)
 
 ### 🧠 **Integracja z AI - Python**
-Wykorzystujemy **Gemini API** do analizy zdjęć i sugestii upcyclingowych, pomagając użytkownikom lepiej zarządzać odpadami.
-
+Wykorzystujemy **Gemini API** do analizy zdjęć i sugestii upcyclingowych, pomagając użytkownikom lepiej zarządzać odpadami.  
 🔗 [AI Integration Repo](https://github.com/Eco-craft/ai-integration)
+
 ---
 
 ## 🛠️ Technologie, które wykorzystujemy
