@@ -1,3 +1,4 @@
+![Eco-craft header](leaves_header.png)
 # 🌍🌿 Eco-craft — Razem dla Planety 🌿🌍
 > **"Natura daje nam wszystko, co potrzebujemy. Czas, abyśmy oddali coś w zamian."**
 
