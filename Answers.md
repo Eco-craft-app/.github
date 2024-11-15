@@ -15,7 +15,7 @@ SpaceY
 Zespół Szkół Zawodowych w Gostyniu
 
 ## Link do pracy
-// link do strony
+https://eco-craft.duckdns.org
 
 ## Link do kodu źródłowego
 https://github.com/Eco-craft-app
