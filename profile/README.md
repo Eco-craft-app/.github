@@ -2,6 +2,13 @@
   <img src="leaves_header.png" alt="Eco-craft header">
 </p>
 
+<h1 align="center">Jak przetestować aplikację?</h1>
+Aby w pełni przetestować aplikację, należy się zalogować. Ponieważ jest to prototyp, udostępniliśmy 5 kont testowych, z których można skorzystać. Oto loginy: konto_testowe_1, konto_testowe_2, konto_testowe_3, konto_testowe_4, konto_testowe_5.
+Hasło do każdego z tych kont jest takie samo: test.
+
+Przepraszamy, że funkcjonalność rejestracji nie jest jeszcze dostępna — planujemy ją udostępnić w przyszłości.
+
+
 <h1 align="center">🌍🌿 Eco-craft — Razem dla Planety 🌿🌍</h1>
 
 > **"Natura daje nam wszystko, co potrzebujemy. Czas, abyśmy oddali coś w zamian."**
