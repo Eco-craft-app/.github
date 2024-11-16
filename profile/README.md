@@ -8,6 +8,7 @@ Hasło do każdego z tych kont jest takie samo: test.
 
 Przepraszamy, że funkcjonalność rejestracji nie jest jeszcze dostępna — planujemy ją udostępnić w przyszłości.
 
+<h1 align="center">Link do prototypu: https://eco-craft.duckdns.org/home</h1>
 
 <h1 align="center">🌍🌿 Eco-craft — Razem dla Planety 🌿🌍</h1>
 
